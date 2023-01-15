@@ -1,2 +1,5 @@
-# DIOGFT-Dia-A-Dia-QA
-Repositório para entrega de documentos do deafio "O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais" do curso "GFT Quality Assurance Para Mulheres GFT Quality Assurance Para Mulheres" da olataforma DIO em parceria com a empresa GFT
+# Projeto: "O dia a dia de um QA: A prática de testes manuais funcionais"
+
+Bootcamp: GFT Quality Assurance Para Mulheres
+Módulo: Os fundamentos de qualidade e desenvolvimento de software
+Repositório para entrega de documentos do desafio "O dia a dia de um QA: A prática de testes manuais funcionais"
